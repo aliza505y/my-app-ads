@@ -1,2 +1,1 @@
-# my-app-ads
-App adds text for status saver
+google.com, pub-4309696306726485, DIRECT, f08c47fec0942fa0
